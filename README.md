@@ -48,10 +48,5 @@
     </a>
 </p>
 
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmariani&layout=compact&hide=vue
-">
 
 [website]: https://sebastianmariani.com/
