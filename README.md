@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmariani&layout=compact&hide=vue
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmariani&layout=compact&hide=vue
 ">
 
 [website]: https://sebastianmariani.com/
