@@ -1,6 +1,6 @@
 # Hi there, I'm Sebastian - [website] 👋
 
-## I'm a Front-end Developer and a tech-head!
+### I'm a Front-end Developer and a tech-head!
 
 - 🌱 I’m currently learning <img alt="Node" src="https://img.shields.io/badge/Node-339933?logo=Node-dot-js&logoColor=white&style=plastic">
 - 👯 I’m looking to collaborate with other developer
