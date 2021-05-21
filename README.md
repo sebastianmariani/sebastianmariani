@@ -33,13 +33,13 @@
 ### Connect with me:
 
 <p>
-    <a href="https://sebastianmariani.com/" target="blank">
+    <a href="https://sebastianmariani.com/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-f33717?style=plastic">
     </a>
-    <a href="https://www.linkedin.com/in/sebastian-mariani/" target="blank">
+    <a href="https://www.linkedin.com/in/sebastian-mariani/">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=plastic">
     </a>
-    <a href="https://mobile.twitter.com/SebbMariani" target="blank">
+    <a href="https://mobile.twitter.com/SebbMariani">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-0A66C2?logo=Twitter&logoColor=white&style=plastic">
     </a>
     <a href="mailto:sebastian.mariani.94@gmail.com">
