@@ -42,7 +42,7 @@
     <a href="https://mobile.twitter.com/SebbMariani">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-0A66C2?logo=Twitter&logoColor=white&style=plastic">
     </a>
-    <a href="mailto:sebastian.mariani.94@gmail.com">
+    <a href="mailto:sebmdev@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=plastic">
     </a>
 </p>
