@@ -2,7 +2,7 @@
 
 ### I'm a Front-end Developer and a tech-head!
 
-- 🌱 I’m currently learning <img alt="Node" src="https://img.shields.io/badge/Node-339933?logo=Node-dot-js&logoColor=white&style=plastic">
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love analog photography and architecture
