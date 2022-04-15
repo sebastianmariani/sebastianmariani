@@ -27,7 +27,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=plastic">
     <img alt="Visual-studio-code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual-studio-code&logoColor=white&style=plastic">
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?logo=Typescript&logoColor=white&style=plastic">
-    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-007ACC?logo=Cypress&logoColor=white&style=plastic">
+    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=Cypress&logoColor=white&style=plastic">
 </p>
 
 <br/>
