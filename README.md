@@ -1,8 +1,8 @@
-# Hi there, I'm Sebastian - [website] 👋
+# Hi there, I'm Seb - [website] 👋
 
 ### I'm a Front-end Developer and a tech-head!
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Cypress
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love analog photography and architecture
@@ -27,6 +27,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=plastic">
     <img alt="Visual-studio-code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual-studio-code&logoColor=white&style=plastic">
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?logo=Typescript&logoColor=white&style=plastic">
+    <img alt="Cypress" src="https://img.shields.io/badge/Cypress-007ACC?logo=Cypress&logoColor=white&style=plastic">
 </p>
 
 <br/>
