@@ -21,7 +21,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=plastic">
     <img alt="Node" src="https://img.shields.io/badge/Node-339933?logo=Node-dot-js&logoColor=white&style=plastic">
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic">
-    <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongodb&logoColor=white&style=plastic">
+    <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongo&logoColor=white&style=plastic">
     <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=plastic">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=plastic">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=plastic">
