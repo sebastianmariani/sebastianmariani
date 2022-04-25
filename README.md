@@ -2,7 +2,7 @@
 
 ### I'm a Front-end Developer and a tech-head!
 
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently learning <img alt="ReactNative.js" src="https://img.shields.io/badge/ReactNative.js-E34F26?logo=ReaceNative.js&logoColor=white&style=plastic">
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love analog photography and architecture
