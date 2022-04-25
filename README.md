@@ -19,7 +19,6 @@
     <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white&style=plastic">
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=plastic">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=plastic">
-    <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongodb&logoColor=white&style=plastic">
     <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=plastic">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=plastic">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=plastic">
