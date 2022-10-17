@@ -48,7 +48,7 @@
     </a>
 </p>
 
-### Medium Blog
+### Medium Blog:
 <a href="https://medium.com/@sebmdev">
     <img alt="Medium blog" src="https://img.shields.io/badge/Medium-white?style=plastic">
 <a/>
