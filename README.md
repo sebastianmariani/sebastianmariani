@@ -26,7 +26,7 @@
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?logo=Typescript&logoColor=white&style=plastic">
     <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=Cypress&logoColor=white&style=plastic">
     <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-FFFFF?logo=Cucumber&logoColor=black&style=plastic">
-    <img alt="MUI" src="https://img.shields.io/badge/Mui-FFFFF?logo=Mui&logoColor=white&style=plastic">
+    <img alt="MUI" src="https://img.shields.io/badge/Mui-007ACC?logo=Mui&logoColor=white&style=plastic">
 </p>
 
 <br/>
