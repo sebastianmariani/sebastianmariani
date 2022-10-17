@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning <img alt="Node" src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white&style=plastic"> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic"> <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongodb&logoColor=white&style=plastic">
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love analog photography and architecture
+- 🥅 Write Technical blogs
+- ⚡ Fun fact: I love analog photography, architecture and antiques
 
 <br/>
 
