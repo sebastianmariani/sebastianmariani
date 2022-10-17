@@ -48,5 +48,10 @@
     </a>
 </p>
 
+### Medium Blog
+<a href="https://medium.com/@sebmdev">
+    <img alt="Medium blog" src="https://img.shields.io/badge/Medium-f33717?style=plastic">
+<a/>
+
 
 [website]: https://sebastianmariani.com/
