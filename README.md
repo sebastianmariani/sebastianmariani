@@ -1,8 +1,9 @@
 # Hi there, I'm Seb - [website] 👋
 
-### I'm a Front-end Developer and a tech-head!
+### I'm a Software Engineer and a tech enthusiast!
 
-- 🌱 I’m currently learning <img alt="Node" src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white&style=plastic"> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic"> <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongodb&logoColor=white&style=plastic">
+- 🌱 I’m currently learning <img alt="Node" src="https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white&style=plastic"> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic"> <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongodb&logoColor=white&style=plastic"> <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-47A248?logo=PostgreSql&logoColor=blue&style=plastic">
+- 🎹 I'm also learning to play piano
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Write Technical blogs
 - ⚡ Fun fact: I love analog photography, architecture and antiques
