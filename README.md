@@ -53,7 +53,11 @@
 
 ### Medium Blog:
 <a href="https://medium.com/@sebmdev">
-    <img alt="Medium blog" src="https://img.shields.io/badge/Medium-white?style=plastic">
+    <img alt="Medium blog" src="https://img.shields.io/badge/Medium-000000?logo=Medium&logoColor=white&style=plastic">
+<a/>
+### Online CV:
+<a href="[https://medium.com/@sebmdev](https://sebmdev.notion.site/Sebastian-Mariani-a2f90acd507241be96417f7eadd1d79f?pvs=74)">
+    <img alt="Online cv" src="https://img.shields.io/badge/Notion-white?logo=Notion&logoColor=white&style=plastic">
 <a/>
 
 
