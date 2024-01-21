@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer and a tech enthusiast!
 
-- 🌱 I’m currently learning <img alt="Node" src="https://img.shields.io/badge/Node-33993?logo=Node.js&logoColor=white&style=plastic"> <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic"> <img alt="Mongo" src="https://img.shields.io/badge/Mongo-47A248?logo=Mongodb&logoColor=white&style=plastic"> <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-007ACC?logo=PostgreSql&logoColor=white&style=plastic">
+- 🌱 I’m currently learning  <img alt="Python" src="https://img.shields.io/badge/python-007ACC?logo=PostgreSql&logoColor=white&style=plastic">
 - 🎹 I'm also learning to play piano
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Write Technical blogs
@@ -11,7 +11,9 @@
 <br/>
 
 ### Languages and Tools:
+<! --->https://github.com/tandpfun/skill-icons?tab=readme-ov-file#example <--->
 <p>
+    [![My skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vue,sass,bootstrap,jest,git,figma,vscode,typescript,cypress,cucumber,mui,node,express,postgresql)](https://skillicons.dev)
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic">
@@ -28,6 +30,9 @@
     <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=Cypress&logoColor=white&style=plastic">
     <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-FFFFF?logo=Cucumber&logoColor=black&style=plastic">
     <img alt="MUI" src="https://img.shields.io/badge/Mui-007ACC?logo=Mui&logoColor=white&style=plastic">
+    <img alt="Node" src="https://img.shields.io/badge/Node-33993?logo=Node.js&logoColor=white&style=plastic"> 
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic">
+    <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSql-007ACC?logo=PostgreSql&logoColor=white&style=plastic">
 </p>
 
 <br/>
