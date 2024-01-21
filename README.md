@@ -44,7 +44,7 @@
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=plastic">
     </a>
     <a href="https://mobile.twitter.com/SebbMariani">
-        <img alt="X" src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white&style=plastic">
+        <img alt="x" src="https://img.shields.io/badge/x-000000?logo=X&logoColor=white&style=plastic">
     </a>
     <a href="mailto:sebmdev@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=plastic">
