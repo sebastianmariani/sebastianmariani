@@ -37,7 +37,7 @@
 ### Connect with me:
 
 <p>
-    <a href="https://sebastianmariani.com/">
+    <a href="https://sebastianmariani.com/" target="_self">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-f33717?style=plastic">
     </a>
     <a href="https://www.linkedin.com/in/sebastian-mariani/">
