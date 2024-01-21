@@ -37,7 +37,7 @@
 ### Connect with me:
 
 <p>
-    <a href="https://sebastianmariani.com/" target="_blank">
+    <a href="https://sebastianmariani.com/">
         <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-f33717?style=plastic">
     </a>
     <a href="https://www.linkedin.com/in/sebastian-mariani/">
@@ -60,7 +60,7 @@
     
 ### Online CV:
 <a href="https://sebmdev.notion.site/Sebastian-Mariani-a2f90acd507241be96417f7eadd1d79f?pvs=74">
-    <img alt="Online cv" src="https://img.shields.io/badge/Notion-white?logo=Notion&logoColor=white&style=plastic">
+    <img alt="Online cv" src="https://img.shields.io/badge/Notion-white?logo=Notion&logoColor=black&style=plastic">
 <a/>
 
 
