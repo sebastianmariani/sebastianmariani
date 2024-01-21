@@ -3,7 +3,6 @@
 ### I'm a Software Engineer and a tech enthusiast!
 
 - 🌱 I’m currently learning  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=plastic">
-- 🎹 I'm also learning to play piano
 - 👯 I’m looking to collaborate with other developer
 - 🥅 Write Technical blogs
 - ⚡ Fun fact: I love analog photography, architecture and antiques
