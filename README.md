@@ -13,7 +13,7 @@
 ### Languages and Tools:
 <! --->https://github.com/tandpfun/skill-icons?tab=readme-ov-file#example <--->
 <p>
-    [![My skills](https://skillicons.dev/icons?i=html,css,js,react,redux,vue,sass,bootstrap,jest,git,figma,vscode,typescript,cypress,cucumber,mui,node,express,postgresql)](https://skillicons.dev)
+    [![My skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=plastic">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=plastic">
