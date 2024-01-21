@@ -26,7 +26,7 @@
     <img alt="Visual-studio-code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual-studio-code&logoColor=white&style=plastic">
     <img alt="Typescript" src="https://img.shields.io/badge/Typescript-007ACC?logo=Typescript&logoColor=white&style=plastic">
     <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=Cypress&logoColor=white&style=plastic">
-    <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-FFFFF?logo=Cucumber&logoColor=black&style=plastic">
+    <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-FFFFF?logo=Cucumber&logoColor=white&style=plastic">
     <img alt="MUI" src="https://img.shields.io/badge/Mui-007ACC?logo=Mui&logoColor=white&style=plastic">
     <img alt="Node" src="https://img.shields.io/badge/Node-33993?logo=Node.js&logoColor=white&style=plastic"> 
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=plastic">
